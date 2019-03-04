@@ -7,8 +7,11 @@
 ## Sketch
 
 *NodeMCU <---> ACS712*
+
 A0 --- OUT
+
 5V --- VCC
+
 GND --- GND
 
-![Sketch](thingspeak.png?raw=true)
+![Sketch](thingspeak?raw=true)
