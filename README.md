@@ -14,4 +14,5 @@ A0 --- OUT
 
 GND --- GND
 
-![Sketch](thingspeak.png?raw=true)
+![Sketch](thingspeak.png?raw=true "Sketch")
+
